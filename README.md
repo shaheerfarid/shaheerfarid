@@ -38,5 +38,4 @@ Currently, I am an **Undergraduate Researcher** developing Generative AI models 
 
 ### 📫 Contact
 - **Email:** msbfarid@connect.ust.hk
-- **LinkedIn:** [Shaheer Farid](https://www.linkedin.com/in/YOUR_LINKEDIN)
 
