@@ -14,7 +14,7 @@
 -->
 # Hi, I'm Shaheer!
 
-I am a Computer Science & AI student at **HKUST**, passionalte about **Machine Learning, Computer Vision, and Algorithms**.
+Welcome to my GitHub profile! I am a second year Computer Science student at **The Hong Kong University of Science & Technology (HKUST)**, passionalte about **Machine Learning, Computer Vision, and Algorithms**.
 
 ### About Me
 - Currently studying Computer Science & AI at **HKUST** (Dean's List).
