@@ -17,6 +17,8 @@
 Welcome to my GitHub profile! I am a second year Computer Science student at **The Hong Kong University of Science & Technology (HKUST)**, passionalte about **Machine Learning, Computer Vision, and Algorithms**.
 
 ### About Me
+-------------
+
 - Currently studying Computer Science & AI at **HKUST** (Dean's List).
 - Recently completed research on **Generative AI** for manufacturing design.
 - Interested in **Machine Learning, Computer Vision, and Mathematics**.
@@ -24,6 +26,7 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 - Always looking to learn new tools and solve interesting problems with code.
 
 ### Technical Skills
+---------------------
 
 | Domain | Stack |
 | :--- | :--- |
@@ -33,5 +36,6 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 
 
 ### Contact
+------------
 - **Email:** msbfarid@connect.ust.hk
 
