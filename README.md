@@ -32,9 +32,6 @@ I am a Computer Science & AI student at **HKUST**, passionalte about **Machine L
 | **Data & Tools** | Git, SQL, Linux/Unix, MATLAB |
 
 
-### 📈 GitHub Stats
-![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerfarid&show_icons=true&theme=radical)
-
-### 📫 Contact
+### Contact
 - **Email:** msbfarid@connect.ust.hk
 
