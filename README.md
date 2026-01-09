@@ -14,22 +14,29 @@
 -->
 # Hi, I'm Shaheer! 👋
 
-I am a Computer Science undergraduate at **The Hong Kong University of Science & Technology (HKUST)**, focused on building scalable systems and AI models.
+I am a Computer Science & AI student at **HKUST**, passionalte about **Machine Learning, Computer Vision, and Algorithms**.
 
-### 🚀 About Me
-- 🔭 **Currently working on:** Advanced algorithms and simulation projects.
-- 🎓 **Focus:** Artificial Intelligence, Machine Learning, and Computational Mathematics.
-- 💡 **Goal:** Solving complex, real-world problems through efficient code.
-- ⚡ **Fun fact:** I love turning mathematical concepts into code simulations.
+Currently, I am an **Undergraduate Researcher** developing Generative AI models for automated manufacturing.
 
-### 🛠️ Languages & Tools
-<!-- You can delete the ones you don't use -->
+### 🚀 Technical Arsenal
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
-- [Portfolio/Website](https://YOUR-WEBSITE.com)
+### 🔬 Selected Projects
+| Project | Stack | Impact |
+| :--- | :--- | :--- |
+| **[Mini Autopilot 🚗](#)** | `CNN` `Python` | Built a self-driving car model predicting steering angles from sensor data. |
+| **[Cell Annotation 🧬](#)** | `NumPy` `K-Means` | Optimized bioinformatics pipeline for cancer detection (10x speedup via vectorization). |
+| **[Generative Design 🏭](#)** | `GenAI` `PyTorch` | Research project automating manufacturing designs using Generative AI. |
+
+### 📈 GitHub Stats
+![Shaheer's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaheerfarid&show_icons=true&theme=radical)
+
+### 📫 Contact
+- **Email:** msbfarid@connect.ust.hk
+- **LinkedIn:** [Shaheer Farid](https://www.linkedin.com/in/YOUR_LINKEDIN)
+
