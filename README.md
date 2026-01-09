@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 ### Contact
 
 - **Email:** msbfarid@connect.ust.hk
-- **Instagram:** m.shaheer_machiyara
+- **Instagram:** <a href=https://www.instagram.com/m.shaheer_machiyara/>m.shaheer_machiyara</a>
 
 Check out my repositories to see what I'm working on. If you have any feedback or ideas, I'd love to hear them!
 
