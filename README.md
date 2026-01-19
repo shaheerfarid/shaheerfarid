@@ -28,10 +28,10 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 
 | Domain | Stack |
 | :--- | :--- |
-| **Languages** | Python, C++, Java, JavaScript |
-| **Machine Learning** | PyTorch, TensorFlow, Scikit-Learn, NumPy, Pandas |
-| **Data & Tools** | Git, SQL, Linux/Unix, MATLAB |
-
+| **Languages** | Python, C++, Java, JavaScript, TypeScript, SQL |
+| **Machine Learning & AI** | PyTorch, TensorFlow, Stable Diffusion, ComfyUI, NumPy, Pandas, OpenCV |
+| **Web & Full Stack Development** | React, Node.js, REST APIs, Three.js, Full Stack Development |
+| **Tools & Systems** | Git, Linux/Unix, Docker, MATLAB, VR |
 
 ### Contact
 
