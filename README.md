@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 
 - Currently studying Computer Science & AI at **HKUST** (Dean's List).
 - Recently completed research on **Generative AI** for manufacturing design.
-- Interested in **Machine Learning, Computer Vision, and Mathematics**.
+- Interested in **AI, Machine Learning, Mathematics, and Algorithms**.
 - I enjoy working on projects involving simulations and algorithm optimization.
 - Always looking to learn new tools and solve interesting problems with code.
 
