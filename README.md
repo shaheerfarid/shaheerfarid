@@ -42,3 +42,12 @@ Check out my repositories to see what I'm working on. If you have any feedback o
 
 ![Custom GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid&bg_color=1F222E&color=FFFFFF&line=4CAF50&point=FFFFFF&area=true&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerfarid&layout=compact&theme=dracula)
+
+<div align="center">
+  ![Stats](https://github-readme-stats.vercel.app/api?username=shaheerfarid)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerfarid&layout=compact)
+</div>
+
+
+
