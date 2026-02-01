@@ -40,3 +40,5 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 
 Check out my repositories to see what I'm working on. If you have any feedback or ideas, I'd love to hear them!
 
+![Your GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid)
+
