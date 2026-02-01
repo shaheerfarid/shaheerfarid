@@ -44,10 +44,5 @@ Check out my repositories to see what I'm working on. If you have any feedback o
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerfarid&layout=compact&theme=dracula)
 
-<div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=shaheerfarid)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaheerfarid&layout=compact)
-</div>
-
 
 
