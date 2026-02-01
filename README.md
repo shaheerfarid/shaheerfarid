@@ -42,6 +42,15 @@ Check out my repositories to see what I'm working on. If you have any feedback o
 
 ![Math-Inspired Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid&bg_color=000000&color=e0e0e0&line=d4af37&point=ffffff&area=true&hide_border=true)
 
-![Contributions Plot](https://github.pumbas.net/api/contributions?username=shaheerfarid&theme=dark&area=true)
+## Math Lover's Contribution Corner 🧮📈
 
+Contributions aren't just squares—they're curves, fractals, and equations!
+
+![Activity as Golden Curve](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid&bg_color=000814&color=c9d1d9&line=ffa500&point=ffffff&area=true&hide_border=true)
+
+Euler's identity in code & math:  
+$$ e^{i\pi} + 1 = 0 $$
+
+**Fractal-like depth in my work:**  
+![Mandelbrot](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.gif/400px-Mandel_zoom_00_mandelbrot_set.gif)
 
