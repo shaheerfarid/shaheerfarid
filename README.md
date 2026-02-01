@@ -40,7 +40,8 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 
 Check out my repositories to see what I'm working on. If you have any feedback or ideas, I'd love to hear them!
 
-![Custom GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid&bg_color=1F222E&color=FFFFFF&line=4CAF50&point=FFFFFF&area=true&hide_border=true)
 ![Math-Inspired Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid&bg_color=000000&color=e0e0e0&line=d4af37&point=ffffff&area=true&hide_border=true)
+
+![Contributions Plot](https://github.pumbas.net/api/contributions?username=YOUR_USERNAME&theme=dark&area=true)
 
 
