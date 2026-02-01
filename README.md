@@ -42,6 +42,6 @@ Check out my repositories to see what I'm working on. If you have any feedback o
 
 ![Math-Inspired Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shaheerfarid&bg_color=000000&color=e0e0e0&line=d4af37&point=ffffff&area=true&hide_border=true)
 
-![Contributions Plot](https://github.pumbas.net/api/contributions?username=YOUR_USERNAME&theme=dark&area=true)
+![Contributions Plot](https://github.pumbas.net/api/contributions?username=shaheerfarid&theme=dark&area=true)
 
 
