@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 ### Contact
 
 - **Email:** msbfarid@connect.ust.hk
-- **LinkedIn:** <a href=http://linkedin.com/in/muhammad-shaheer-bin-farid-022705175</a>
+- **LinkedIn:** <a href=https://linkedin.com/in/muhammad-shaheer-bin-farid-022705175></a>
 
 Check out my repositories to see what I'm working on. If you have any feedback or ideas, I'd love to hear them!
 
