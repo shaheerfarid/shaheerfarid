@@ -1,6 +1,6 @@
 <!--## Hi, I'm Shaheer
 
-<p>Welcome to my GitHub profile! I am a second year Computer Science student at The Hong Kong University of Science & Technology (HKUST), passionate about algorithms, problem solving, and machine learning</p>
+<p>Welcome to my GitHub profile! I am a third year Computer Science student at The Hong Kong University of Science & Technology (HKUST), passionate about algorithms, problem solving, and machine learning</p>
 
 ### About Me
 <p>
@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a second year Computer Science student at **T
 ### Contact
 
 - **Email:** msbfarid@connect.ust.hk
-- **Instagram:** <a href=https://www.instagram.com/m.shaheer_machiyara/>m.shaheer_machiyara</a>
+- **LinkedIn:** <a href=http://linkedin.com/in/muhammad-shaheer-bin-farid-022705175/</a>
 
 Check out my repositories to see what I'm working on. If you have any feedback or ideas, I'd love to hear them!
 
